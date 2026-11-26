@@ -24,8 +24,8 @@ class NengzXDEV:
     def __init__(self):
         self.name = "NengzX"
         self.role = "Full-Stack Developer"
-        self.github = "[https://github.com/NengzXDEV](https://github.com/NengzXDEV)"
-        self.telegram = "[https://t.me/nengzx_fernandez](https://t.me/nengzx_fernandez)"
+        self.github = "https://github.com/NengzXDEV"
+        self.telegram = "https://t.me/nengzx_fernandez"
         self.languages = ["Python", "JavaScript", "PHP", "Bash"]
         self.platforms = ["Windows", "Linux"]
         self.interests = [
