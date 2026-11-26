@@ -1,60 +1,84 @@
 <div align="center">
 
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:11221D,100:2EF7A1&height=165&section=header&text=NengzXDEV&fontSize=74&fontAlign=50&fontColor=FFFFFF&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0F2922,100:2EF7A1&height=175&section=header&text=NengzXDEV&fontSize=76&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20Systems%20Builder%20%7C%20Security%20Researcher&descSize=16&descAlign=50&descAlignY=62&descColor=2EF7A1&animation=fadeIn)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=2EF7A1&center=true&vCenter=true&random=false&width=580&lines=Full-Stack+Developer+%26+Builder;Desktop+Utilities+%26+Automation;Linux+%26+VPS+Systems+Engineer;Web+Apps+%2C+APIs+%26+Security+Research)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=2EF7A1&center=true&vCenter=true&random=false&width=620&lines=Building+Fast+Desktop+Utilities+%26+Web+Platforms;Linux+VPS+Infrastructure+%26+Automation;Full-Stack+Engineering+%7C+Python+%E2%80%A2+PHP+%E2%80%A2+JS;Security+Research+%26+Performance+Tooling)](https://git.io/typing-svg)
 
-  <p>
-    <a href="https://github.com/NengzXDEV?tab=followers">
-      <img src="https://img.shields.io/github/followers/NengzXDEV?style=for-the-badge&color=161B22&labelColor=0D1117&logo=github&logoColor=2EF7A1" alt="Followers" />
-    </a>
-    <a href="https://github.com/NengzXDEV">
-      <img src="https://img.shields.io/github/stars/NengzXDEV?style=for-the-badge&color=161B22&labelColor=0D1117&logo=star&logoColor=2EF7A1" alt="Stars" />
-    </a>
-    <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-161B22?style=for-the-badge&labelColor=0D1117&color=2EF7A1" alt="Platform" />
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNengzXDEV&title=Profile+Views&count_bg=%232EF7A1&title_bg=%23161B22&icon=&icon_color=%23E7E7E7&title_color=%23E7E7E7&edge_flat=true" alt="Profile Views" />
-  </p>
+  <br />
+
+  [![Followers](https://img.shields.io/github/followers/NengzXDEV?style=for-the-badge&color=161B22&labelColor=0D1117&logo=github&logoColor=2EF7A1)](https://github.com/NengzXDEV?tab=followers)
+  [![Stars](https://img.shields.io/github/stars/NengzXDEV?style=for-the-badge&color=161B22&labelColor=0D1117&logo=sparkles&logoColor=2EF7A1)](https://github.com/NengzXDEV)
+  ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-161B22?style=for-the-badge&labelColor=0D1117&logo=linux&logoColor=2EF7A1)
+  ![Profile Views](https://komarev.com/ghpvc/?username=NengzXDEV&label=PROFILE%20VIEWS&color=2EF7A1&style=for-the-badge)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 Engineering Profile
 
 ```python
 class NengzXDEV:
     def __init__(self):
-        self.handle = "NengzXDEV"
+        self.alias = "NengzX"
+        self.github = "[https://github.com/NengzXDEV](https://github.com/NengzXDEV)"
+        self.telegram = "[https://t.me/nengzx_fernandez](https://t.me/nengzx_fernandez)"
         self.focus = [
-            "Desktop Utilities & System Tools",
-            "Full-Stack Web Apps & Order/Service Platforms",
-            "Linux VPS Administration & Automation",
-            "Security Research & Tooling",
+            "Desktop Utilities & Native Performance Tools",
+            "Full-Stack Web Platforms & Real-Time Apps",
+            "Linux VPS Administration & Daemon Automation",
+            "Security Research & System Hardening",
         ]
-        self.stack_highlights = ["Python", "PyQt6", "PHP", "JavaScript", "Bash", "Docker"]
-        self.mindset = "Clean architecture, practical tools, steady improvement"
+        self.philosophy = "Zero bloat, clean architecture, practical impact"
 
-    def workflow(self) -> list[str]:
-        return ["Architect", "Build", "Package", "Deploy", "Refine"]
+    def pipeline(self) -> list[str]:
+        return ["Architect", "Develop", "Package", "Harden", "Ship"]
 ```
 
 ---
 
-## Featured Builds
+## ⚡ Core Engineering Domains
 
-| Project | Type | Stack & Highlights | Status |
-| :--- | :--- | :--- | :--- |
-| **NBoost** | Windows System Cleaner & Optimizer | Dark-mode utility to clear caches/logs, manage startup entries, and flush RAM/DNS with standalone executable & installer builds (`Nboost.exe`, `NboostSetup.exe`). | Active |
-| **NTorrent** | Desktop BitTorrent Client | Zero-ad dark-mode client built with `Python`, `PyQt6`, `libtorrent`, and `pyqtgraph`, packaged via `PyInstaller` and `Inno Setup`. | Released |
-| **ASCENDER** | Social Chat Web App | Real-time web chat application integrating `Supabase` auth & database, `Cloudflare R2` object storage, `Cloudinary`, and `GIPHY` media APIs. | In Progress |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ Desktop & System Software</h3>
+      <p>Building standalone, zero-bloat Windows & Linux utilities with modern dark-mode UIs, native packaging (<code>PyInstaller</code>, <code>Inno Setup</code>), and hardware/network diagnostics.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-Stack Web & Cloud</h3>
+      <p>Developing production web platforms, order-management systems, and real-time chat apps powered by <code>PHP</code>, <code>JavaScript</code>, <code>Supabase</code>, and <code>Cloudflare R2</code>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐧 Linux & VPS Infrastructure</h3>
+      <p>Deploying and hardening production Linux servers with <code>Nginx</code>, <code>Docker</code>, <code>PM2</code>, and automated <code>systemd</code> background services.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Security & Automation</h3>
+      <p>Writing CLI workflows, Telegram bots, and security auditing utilities with a focus on clean execution and operational reliability.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Tech Stack
+## 🚀 Featured Builds
+
+| Project | Category | Technical Stack & Architecture | Status |
+| :--- | :--- | :--- | :--- |
+| **NBoost** | Windows System Optimizer | Dark-mode PC cleaner & optimizer to purge temp/cache/logs, manage startup persistence, and flush RAM/DNS (`Nboost.exe`, `NboostSetup.exe`). | `Active` |
+| **NTorrent** | Desktop BitTorrent Client | Zero-ad dark-mode BitTorrent client engineered with `Python`, `PyQt6`, `libtorrent`, and `pyqtgraph`, packaged as a standalone installer. | `Released` |
+| **ASCENDER** | Real-Time Social Chat App | Modern web messaging platform integrating `Supabase` auth/DB, `Cloudflare R2` storage, `Cloudinary`, and `GIPHY` APIs. | `In Progress` |
+
+---
+
+## 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-### Languages & Web
+#### Languages
 ![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-161B22?style=for-the-badge&logo=php&logoColor=777BB4)
@@ -62,24 +86,26 @@ class NengzXDEV:
 ![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### Frameworks, Cloud & Infrastructure
+#### Infrastructure, Cloud & Databases
 ![Linux](https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-161B22?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![Nginx](https://img.shields.io/badge/Nginx-161B22?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Supabase](https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
-### Editors & CLI Tools
+#### Developer Environment
 ![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-161B22?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![PowerShell](https://img.shields.io/badge/PowerShell-161B22?style=for-the-badge&logo=powershell&logoColor=5391FE)
 
 </div>
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=NengzXDEV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EF7A1&icon_color=2EF7A1&text_color=E6EDF3&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -95,18 +121,18 @@ class NengzXDEV:
 
 ---
 
-## Environment
+## ⚙️ Workstation & Environment
 
 ```yaml
 workstation:
   os: ["Windows 11 Pro", "Linux (Dual-Boot)"]
-  cpu: "Intel Core i7-9700"
+  cpu: "Intel Core i7-9700 (8 Cores)"
   memory: "16 GB RAM"
-  editors: ["VS Code", "Terminal / CLI"]
-  shells: ["PowerShell", "Bash", "Zsh"]
-  containers: ["Docker"]
+  editors: ["VS Code", "CLI / Nano"]
+  shells: ["PowerShell (Oh My Posh)", "Bash", "Zsh"]
+  runtime: ["Python", "Node.js", "PHP 8.1", "Docker"]
 
-mobile:
+mobile_lab:
   device: "Infinix Note 40"
   os: "Android 14"
   tooling: ["Termux", "Acode"]
@@ -114,26 +140,17 @@ mobile:
 
 ---
 
-## Quick Clone
-
-```bash
-git clone [https://github.com/NengzXDEV/](https://github.com/NengzXDEV/)<repo-name>.git
-cd <repo-name>
-```
-
----
-
-## Connect
+## 🤝 Connect & Verify
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/ismeNengzXDEV)
-[![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ismeNengzXDEV)
-[![Website](https://img.shields.io/badge/Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=2EF7A1)](https://real-NengzXDEV.glitch.me/)
-[![GPG Key](https://img.shields.io/badge/GPG_Key-161B22?style=for-the-badge&logo=gnuprivacyguard&logoColor=E6EDF3)](https://github.com/NengzXDEV.gpg)
+[![Telegram](https://img.shields.io/badge/Telegram-@nengzx__fernandez-161B22?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/nengzx_fernandez)
+[![Instagram](https://img.shields.io/badge/Instagram-@ismeNengzXDEV-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ismeNengzXDEV)
+[![Website](https://img.shields.io/badge/Website-Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=2EF7A1)](https://real-NengzXDEV.glitch.me/)
+[![GPG Key](https://img.shields.io/badge/GPG_Key-Verify_Commits-161B22?style=for-the-badge&logo=gnuprivacyguard&logoColor=E6EDF3)](https://github.com/NengzXDEV.gpg)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EF7A1,50:11221D,100:0D1117&height=95&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EF7A1,55:0F2922,100:0D1117&height=100&section=footer" alt="Footer" />
 </div>
