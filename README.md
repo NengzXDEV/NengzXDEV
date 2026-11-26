@@ -116,7 +116,6 @@ class NengzXDEV:
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@nengzx__fernandez-161B22?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/nengzx_fernandez)
-[![Website](https://img.shields.io/badge/Website-Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=2EF7A1)](https://real-NengzXDEV.glitch.me/)
 [![GPG Key](https://img.shields.io/badge/GPG_Key-Verify_Commits-161B22?style=for-the-badge&logo=gnuprivacyguard&logoColor=E6EDF3)](https://github.com/NengzXDEV.gpg)
 
 </div>
