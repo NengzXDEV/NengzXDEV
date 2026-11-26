@@ -1,6 +1,6 @@
 <div align="center">
   
-  #### 👋 Welcome to Github NengzXGODZ
+  #### 👋 Welcome to Github NengzXDEV
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=NengzXGODZ&fontSize=80&fontAlign=50&animation=fadeIn)
 
