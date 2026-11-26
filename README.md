@@ -1,72 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:160B35,100:6C35D4&height=190&section=header&text=NengzXDEV&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=THE%20SHADOW%20DEVELOPER&descAlignY=63&descSize=20&descColor=B99AFF&animation=fadeIn" width="100%"/>
+NengzXDEV
+Full-Stack Developer · Systems Engineer · Security Researcher
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=ARISE.+BUILD.+DEPLOY.+DOMINATE.;Full-Stack+Developer;Linux+Infrastructure+Engineer;Desktop+%26+Systems+Developer;Security+Researcher+%7C+Automation+Builder" />
+Building practical software, reliable infrastructure, and modern web applications.
 
 <br/>
 
-!Profile Views !Followers !Stars
-
-「 I AM THE ONE WHO BUILDS IN THE SHADOWS. 」
+![GitHub Followers](https://img.shields.io/github/followers/NengzXDEV?style=flat-square&color=238636&label=Followers&logo=github) ![GitHub Stars](https://img.shields.io/github/stars/NengzXDEV?style=flat-square&color=238636&label=Stars&logo=github) !Platform !Profile Views
 
 </div>
 
-🟣 SYSTEM INITIALIZATION
+About Me
+
+I'm a developer focused on building lightweight desktop applications, scalable web platforms, and reliable server infrastructure.
+
+My work combines software engineering, automation, system administration, and security-focused development.
+
 python
-class ShadowDeveloper:
+class NengzXDEV:
     def __init__(self):
         self.name = "NengzX"
-        self.alias = "NengzXDEV"
-        self.rank = "S-RANK DEVELOPER"
-
-        self.specialties = [
-            "Full-Stack Development",
-            "Desktop & System Engineering",
-            "Linux VPS Infrastructure",
-            "Automation & Security Research"
+        self.role = "Full-Stack Developer"
+        self.languages = ["Python", "JavaScript", "PHP", "Bash"]
+        self.platforms = ["Windows", "Linux"]
+        self.interests = [
+            "Desktop Application Development",
+            "Full-Stack Web Development",
+            "Linux Infrastructure",
+            "Automation & Security Research",
+            "Performance Optimization"
         ]
+        self.philosophy = "Clean code. Efficient systems. Practical solutions."
 
-        self.weapons = [
-            "Python", "JavaScript", "PHP",
-            "Linux", "Docker", "Supabase"
-        ]
+    def workflow(self):
+        return ["Design", "Develop", "Test", "Optimize", "Deploy"]
 
-        self.motto = "Arise. Build. Deploy. Dominate."
-
-    def evolve(self):
-        return "Continuously leveling up..."
-
-⚔️ HUNTER PROFILE
-Attribute	Information
-Hunter Name	NengzX
-Rank	D-Rank
-Class	Full-Stack Engineer
-Specialization	Systems & Infrastructure
-Main Weapon	Python
-Secondary Weapons	PHP, JavaScript, Bash
-Operating Systems	Windows / Linux
-Current Mission	Building powerful software
-🌌 SHADOW ABILITIES
+Technical Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🖥️ Shadow Systems
-Native Windows & Linux utilities
-High-performance desktop software
-PyInstaller & Inno Setup packaging
+Desktop Development
+Lightweight Windows and Linux applications
+Native desktop utilities
 Hardware and network diagnostics
-Lightweight dark-mode applications
+PyInstaller application packaging
+Inno Setup installers
+Performance optimization
 
 </td>
 <td width="50%" valign="top">
 
-🌐 Domain Expansion
-Full-stack web applications
-Real-time chat platforms
-Order-management systems
+Full-Stack Development
+Modern web applications
+Real-time communication platforms
+Order management systems
+PHP and JavaScript development
 Supabase integrations
 Cloudflare R2 storage
 
@@ -75,91 +66,74 @@ Cloudflare R2 storage
 <tr>
 <td width="50%" valign="top">
 
-🐉 Infrastructure Mastery
+Infrastructure & DevOps
 Linux VPS administration
-Nginx & Docker deployment
+Nginx configuration
+Docker deployment
 PM2 process management
-systemd automation
-Server hardening
+systemd service automation
+Server maintenance and hardening
 
 </td>
 <td width="50%" valign="top">
 
-🛡️ Shadow Intelligence
+Security & Automation
 Security auditing utilities
-CLI automation
-Telegram bots
+CLI automation tools
+Telegram bot development
 System monitoring
-Performance optimization
+Operational reliability
+Infrastructure security
 
 </td>
 </tr>
+
 </table>
 
-🧬 SKILL TREE
+Technology Stack
 
 <div align="center">
 
-Primary Weapons
+Programming Languages
 
-!Python !JavaScript !PHP !Bash
+!Python !JavaScript !PHP !Bash !HTML5 !CSS3
 
-Infrastructure & Cloud
+Frameworks, Infrastructure & Databases
 
-!Linux !Ubuntu !Docker !Nginx
+!Linux !Ubuntu !Nginx !Docker !MySQL !Supabase !Cloudflare
 
-Database & Cloud Services
-
-!MySQL !Supabase !Cloudflare
-
-Development Arsenal
+Development Tools
 
 !VS Code !Git !Kali Linux !PowerShell
 
 </div>
 
-📊 HUNTER STATUS
+GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NengzXDEV&show_icons=true&hide_border=true&bg_color=0D0B18&title_color=A970FF&icon_color=9D6AFF&text_color=E6DFFF&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NengzXDEV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=NengzXDEV&hide_border=true&background=0D0B18&ring=A970FF&fire=9D6AFF&currStreakLabel=A970FF&sideNums=E6DFFF&sideLabels=B99AFF&currStreakNum=FFFFFF&dates=8B80A8" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NengzXDEV&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideNums=C9D1D9&sideLabels=8B949E&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak" />
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NengzXDEV&layout=compact&hide_border=true&bg_color=0D0B18&title_color=A970FF&text_color=E6DFFF&langs_count=8" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NengzXDEV&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NengzXDEV&bg_color=0D0B18&color=A970FF&line=7137C8&point=FFFFFF&area=true&area_color=7137C8&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NengzXDEV&bg_color=0D1117&color=3FB950&line=238636&point=C9D1D9&area=true&area_color=238636&hide_border=true" alt="GitHub Contribution Activity" />
 
 </div>
 
-🏆 SHADOW ACHIEVEMENTS
+Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NengzXDEV&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" />
+![GitHub](https://img.shields.io/badge/GitHub-NengzXDEV-18181B?style=for-the-badge&logo=github) ![Telegram](https://img.shields.io/badge/Telegram-Contact-18181B?style=for-the-badge&logo=telegram&logoColor=2CA5E0) ![GPG](https://img.shields.io/badge/GPG-Verify%20Commits-18181B?style=for-the-badge&logo=gnuprivacyguard)
 
-</div>
+<br/>
 
-🤝 GUILD CONNECTIONS
-
-<div align="center">
-
-![GitHub](https://img.shields.io/badge/GITHUB-0D0B18?style=for-the-badge&logo=github&logoColor=A970FF) ![Telegram](https://img.shields.io/badge/TELEGRAM-0D0B18?style=for-the-badge&logo=telegram&logoColor=2CA5E0) ![GPG](https://img.shields.io/badge/GPG_KEY-0D0B18?style=for-the-badge&logo=gnuprivacyguard&logoColor=A970FF)
-
-</div>
-
-<div align="center">
-
-「 ARISE. 」
-
-A developer is not born powerful. A developer levels up.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7137C8,50:160B35,100:050510&height=120&section=footer" width="100%"/>
-
-POWERED BY CODE • BUILT IN THE SHADOWS • NENGZXDEV © 2026
+Building reliable software through clean engineering and continuous improvement.
 
 </div>
