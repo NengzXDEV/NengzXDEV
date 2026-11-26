@@ -2,7 +2,7 @@
   
   #### 👋 Welcome to Github NengzXDEV
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=NengzXGODZ&fontSize=80&fontAlign=50&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=NengzXDEV&fontSize=80&fontAlign=50&animation=fadeIn)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Security+Researcher;Linux+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Prompt+Engineer)](https://git.io/typing-svg)
 </div>
@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 ```python
-class NengzXGODZ:
+class NengzXDEV:
     def __init__(self):
         self.name = "NengzX"
         self.location = "PhnomPenh, Cambodia"
@@ -43,8 +43,8 @@ class NengzXGODZ:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NengzXGODZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NengzXGODZ&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NengzXDEV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NengzXDEV&theme=radical"/>
 </div>
 
 ## 🎯 Current Setup
@@ -63,15 +63,15 @@ System:
   rootstatus: "true"
   environment: ["Kali Linux", "Ubuntu"]
 ```
-  [![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/NengzXGODZ)
+  [![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/NengzXDEV)
 
 ## 🤝 Connect With Me
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ismeNengzXGODZ)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ismeNengzXGODZ)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://real-NengzXGODZ.glitch.me/)
-[![GPG Key](https://img.shields.io/badge/GPG_Key-333333?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)](https://github.com/NengzXGODZ.gpg)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ismeNengzXDEV)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ismeNengzXDEV)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://real-NengzXDEV.glitch.me/)
+[![GPG Key](https://img.shields.io/badge/GPG_Key-333333?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)](https://github.com/NengzXDEV.gpg)
 
 </div>
 
@@ -79,10 +79,10 @@ System:
 
 <div align="center">
   
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNengzXGODZ&title=Visitors&edge_flat=false)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNengzXDEV&title=Visitors&edge_flat=false)
 
-[![GitHub Followers](https://img.shields.io/github/followers/wanzxploit?style=social)](https://github.com/NengzXGODZ?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/wanzxploit?style=social)](https://github.com/NengzXGODZ)
+[![GitHub Followers](https://img.shields.io/github/followers/wanzxploit?style=social)](https://github.com/NengzXDEV?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/wanzxploit?style=social)](https://github.com/NengzXDEV)
 
 **💝 Support me with follow**
 </div>
