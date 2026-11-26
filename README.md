@@ -64,16 +64,6 @@ class NengzXDEV:
 
 ---
 
-## 🚀 Featured Builds
-
-| Project | Category | Technical Stack & Architecture | Status |
-| :--- | :--- | :--- | :--- |
-| **NBoost** | Windows System Optimizer | Dark-mode PC cleaner & optimizer to purge temp/cache/logs, manage startup persistence, and flush RAM/DNS (`Nboost.exe`, `NboostSetup.exe`). | `Active` |
-| **NTorrent** | Desktop BitTorrent Client | Zero-ad dark-mode BitTorrent client engineered with `Python`, `PyQt6`, `libtorrent`, and `pyqtgraph`, packaged as a standalone installer. | `Released` |
-| **ASCENDER** | Real-Time Social Chat App | Modern web messaging platform integrating `Supabase` auth/DB, `Cloudflare R2` storage, `Cloudinary`, and `GIPHY` APIs. | `In Progress` |
-
----
-
 ## 🛠️ Tech Stack & Tooling
 
 <div align="center">
@@ -126,7 +116,6 @@ class NengzXDEV:
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@nengzx__fernandez-161B22?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/nengzx_fernandez)
-[![Instagram](https://img.shields.io/badge/Instagram-@ismeNengzXDEV-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ismeNengzXDEV)
 [![Website](https://img.shields.io/badge/Website-Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=2EF7A1)](https://real-NengzXDEV.glitch.me/)
 [![GPG Key](https://img.shields.io/badge/GPG_Key-Verify_Commits-161B22?style=for-the-badge&logo=gnuprivacyguard&logoColor=E6EDF3)](https://github.com/NengzXDEV.gpg)
 
