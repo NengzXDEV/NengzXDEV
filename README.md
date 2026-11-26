@@ -121,25 +121,6 @@ class NengzXDEV:
 
 ---
 
-## ⚙️ Workstation & Environment
-
-```yaml
-workstation:
-  os: ["Windows 11 Pro", "Linux (Dual-Boot)"]
-  cpu: "Intel Core i7-9700 (8 Cores)"
-  memory: "16 GB RAM"
-  editors: ["VS Code", "CLI / Nano"]
-  shells: ["PowerShell (Oh My Posh)", "Bash", "Zsh"]
-  runtime: ["Python", "Node.js", "PHP 8.1", "Docker"]
-
-mobile_lab:
-  device: "Infinix Note 40"
-  os: "Android 14"
-  tooling: ["Termux", "Acode"]
-```
-
----
-
 ## 🤝 Connect & Verify
 
 <div align="center">
